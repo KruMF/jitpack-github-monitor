@@ -4,6 +4,9 @@
 
 Monitors status of my Maven releases on [JitPack](https://jitpack.io).
 
+Green means good, red means bad.
+
+
 ## Monitorables
 
 Monitorable|Status
