@@ -11,6 +11,7 @@ Green means good, red means bad.
 
 Monitorable|Status
 -|-
+[ConsoleUtils](https://github.com/KruMF/ConsoleUtils)|[![](https://jitpack.io/v/Krumuvecis/ConsoleUtils.svg)](https://jitpack.io/#Krumuvecis/ConsoleUtils)
 [DelayCalculator](https://github.com/KruMF/DelayCalculator)|[![](https://jitpack.io/v/KruMF/DelayCalculator.svg)](https://jitpack.io/#KruMF/DelayCalculator)
 [ThreadAbstraction](https://github.com/KruMF/ThreadAbstraction)|[![](https://jitpack.io/v/KruMF/ThreadAbstraction.svg)](https://jitpack.io/#KruMF/ThreadAbstraction)
 [FileHandler](https://github.com/KruMF/FileHandler)|[![](https://jitpack.io/v/KruMF/FileHandler.svg)](https://jitpack.io/#KruMF/FileHandler)
